@@ -46,5 +46,6 @@ public class Main {
 
         BigDecimal currentTemperature = new BigDecimal("37.9");
         medicalService.checkTemperature(id1, currentTemperature);
+
     }
 }
